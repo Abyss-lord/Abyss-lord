@@ -17,11 +17,12 @@
 
 - 💬 Ask me about **Hive, gravitino**
 
-- 📫 How to reach me **chasingboy1@gmail.com**
+- 📫 How to reach me **<chasingboy1@gmail.com>**
 
 - ⚡ Fun fact **PKM**
 
 ### ⭐ Activity Graph
+
 ![Abyss-lord's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abyss-lord&theme=vue)
 
 <h3 align="left">Languages and Tools:</h3>
