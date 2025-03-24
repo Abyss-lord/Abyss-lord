@@ -1,42 +1,37 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Abyss-lord</h1>
+<h3 align="center">A passionate big data developer from China</h3>
 
-🚀 Passionate 2nd-year CS student exploring Java, Spring Boot, Kubernetes, Docker, AWS, and CI/CD! Active open-source contributor collaborating with big orgs. Sponsoring me fuels my journey to learn, build, and innovate—let’s grow together! 💡✨
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abyss-lord&label=Profile%20views&color=0e75b6&style=flat" alt="abyss-lord" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abyss-lord" alt="abyss-lord" /></a> </p>
 
-## 🌐 Socials
+- 🔭 I’m currently working on **ctyun**
 
-- [wechat]:
-- [qq]:
+- 🌱 I’m currently learning **Hive, Gravitino**
 
-## 💻 Tech Stack
+- 👯 I’m looking to collaborate on [gravitino](https://gravitino.apache.org/)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+- 👨‍💻 All of my projects are available at [https://github.com/Abyss-lord?tab=repositories](https://github.com/Abyss-lord?tab=repositories)
 
-![shields](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 📝 I regularly write articles on [https://abyss-lord.github.io/](https://abyss-lord.github.io/)
 
-## GitHub stats
+- 💬 Ask me about **Hive, gravitino**
 
-[Abyss-lord's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abyss-lord&theme=vue)
+- 📫 How to reach me **chasingboy1@gmail.com**
 
-![Abyss-lord's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abyss-lord)
+- ⚡ Fun fact **PKM**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abyss-lord)
+### ⭐ Activity Graph
+![Abyss-lord's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abyss-lord&theme=vue)
 
-![Abyss-lords WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abyss-lord)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abyss-lord&show_icons=true&locale=en&layout=compact" alt="abyss-lord" /></p>
 
-![Metrics](https://metrics.lecoq.io/Abyss-lord?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abyss-lord&show_icons=true&locale=en" alt="abyss-lord" /></p>
 
-[![An image of @Abyss-lord's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Abyss-lord)](https://holopin.io/@Abyss-lord)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abyss-lord&" alt="abyss-lord" /></p>
 
 ### 🔝 Top Contributed Repo
 
