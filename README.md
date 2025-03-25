@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **ctyun**
 
-- 🌱 I’m currently learning **Hive, Gravitino**
+- 🌱 I’m currently learning **Hive, Gravitino, kerberos, Bash**
 
 - 👯 I’m looking to collaborate on [gravitino](https://gravitino.apache.org/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abyss-lord?tab=repositories](https://github.com/Abyss-lord?tab=repositories)
 
 - 📝 I regularly write articles on [https://abyss-lord.github.io/](https://abyss-lord.github.io/)
-
-- 💬 Ask me about **Hive, gravitino**
 
 - 📫 How to reach me **<chasingboy1@gmail.com>**
 
