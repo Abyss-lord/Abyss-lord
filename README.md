@@ -36,6 +36,10 @@
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Abyss-lord&limit=5&theme=panda&combine_all_yearly_contributions=true)
 
+### 🔖 OSS RANK
+
+![OSS RANK](https://typora-img-chart.oss-cn-beijing.aliyuncs.com/20250325120209.png)
+
 ### Waka time
 
 <!--START_SECTION:waka-->
