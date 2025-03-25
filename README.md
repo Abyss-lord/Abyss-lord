@@ -43,4 +43,13 @@
 ### Waka time
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown          9 hrs 49 mins   ███████████░░░░░░░░░░░░░░   43.48 %
+Java              4 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+Other             1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Bash              1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+XML               1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+```
+
 <!--END_SECTION:waka-->
