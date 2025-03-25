@@ -35,3 +35,8 @@
 ### 🔝 Top Contributed Repo
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Abyss-lord&limit=5&theme=panda&combine_all_yearly_contributions=true)
+
+### Waka time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
