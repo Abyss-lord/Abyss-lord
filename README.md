@@ -38,7 +38,7 @@
 
 ### 🔖 OSS RANK
 
-![OSS RANK](https://typora-img-chart.oss-cn-beijing.aliyuncs.com/20250325120209.png)
+[![OSSRank](https://ossrank.com/widget/980785)](https://ossrank.com/c/980785-lord-of-abyss-crate)
 
 ### Waka time
 
