@@ -45,10 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Gradle   0 secs          █████████████████████▓░░░   86.22 %
-Java     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Groovy   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
