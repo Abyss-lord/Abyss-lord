@@ -45,11 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   59 mins         ████████████▒░░░░░░░░░░░░   48.67 %
-SQL        18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
-Python     17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
-Text       15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-Rust       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
